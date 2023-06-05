@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="0" time="0.036" timestamp="2023-06-05T17:21:52.683406" hostname="DESKTOP-DAG0U88" /></testsuites>
